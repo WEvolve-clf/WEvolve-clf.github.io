@@ -1,1 +1,2 @@
-# WEvolve-clf.github.io
+# WEvolve
+### Creative Learning Foundation
